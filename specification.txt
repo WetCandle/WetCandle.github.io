@@ -1,0 +1,15 @@
+pages 4/4
+index.html   hmm.html   hmmmm.html   hmmmmmmmm.html
+
+unique tags 14/10
+div   h1   p   a   table   tr   th  td   img   em   strong   small   sup   sub
+
+bootstrap 1/1
+class="text-danger" for the header in index.html font color
+
+css 5/5  5/5
+#sus-div   button   h1   body   .mani
+align   height   margin   font  family
+
+javascript 1/1
+when you click the screen on hmmmmmmmm.html there is a delay and then an image appears
